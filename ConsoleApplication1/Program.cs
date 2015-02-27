@@ -14,4 +14,3 @@ namespace ConsoleApplication1
     }
 }
 
-Tatga
