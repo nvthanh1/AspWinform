@@ -12,6 +12,4 @@ namespace ConsoleApplication1
         {
         }
     }
-
-
-iiuiyh
+}
